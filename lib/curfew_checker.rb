@@ -1,5 +1,6 @@
 def simple_curfew_checker(time)
-  # code goes here
+  if 4<5
+    puts "Four is less than five."
 end
 
 def curfew_checker(time)
